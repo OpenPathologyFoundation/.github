@@ -1,16 +1,12 @@
-<p align="center">
-  <img alt="Open Pathology Foundation" src="https://raw.githubusercontent.com/<ORG>/<REPO>/main/assets/banner.svg" width="900" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="./assets/banner.png" alt="Open Pathology Foundation" width="400">
+  <br><br>
   <a href="https://github.com/<ORG>"><img alt="GitHub Org" src="https://img.shields.io/badge/Open%20Pathology-Foundation-2ea44f"></a>
   <img alt="Status" src="https://img.shields.io/badge/status-active%20build-0ea5e9">
   <img alt="Focus" src="https://img.shields.io/badge/focus-workflow%20orchestration%20%2B%20viewing-8b5cf6">
-</p>
-
-# Open Pathology Foundation
-
-A shared, modular ecosystem for digital pathology workflows, viewing, and computational pathology.
+  <br><br>
+  <em>A shared, modular ecosystem for digital pathology workflows, viewing, and computational pathology.</em>
+</div>
 
 > [!NOTE]
 > The point is not to win an argument about formats or standards.
