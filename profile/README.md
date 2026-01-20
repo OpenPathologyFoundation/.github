@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="../assets/banner.png" alt="Open Pathology Foundation" width="400">
+<div style="text-align: center;">
+  <img src="../assets/banner.png" alt="Open Pathology Foundation" style="max-width: 400px;">
   <br><br>
   <a href="https://github.com/<ORG>"><img alt="GitHub Org" src="https://img.shields.io/badge/Open%20Pathology-Foundation-2ea44f"></a>
   <img alt="Status" src="https://img.shields.io/badge/status-active%20build-0ea5e9">
